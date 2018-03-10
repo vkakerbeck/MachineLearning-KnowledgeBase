@@ -8,3 +8,7 @@ upload a short summary about this topic.
 Additionally we realize different small projects together which will be uploaded in different git repositories.
 
 We hope that also others can profit from this knowledge base and our projects. We are also open for new ideas and suggestions!
+
+
+**Projects we've done so far:** (Or are currently working on)
+- Increase the amount of training data for networks trained on images by augmenting it with images from the internet: https://github.com/vkakerbeck/IncreaseYourTrainingData
