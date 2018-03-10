@@ -1,5 +1,5 @@
 # MachineLearning-KnowledgeBase
-*This is a collaborative project of Falk Heuer, Viviane Kakerbeck, Johannes Schrumpf and Justine Winkler.*
+*This is a collaborative project by Falk Heuer, Viviane Kakerbeck, Johannes Schrumpf and Justine Winkler.*
 
 We formed a poductive and self-organized learning group in which we deepen each others knowledge about various areas of machine learning
 by telling each other about our own areas of expertise. This is done in weekly (skype)meetings in which we each present a topic and
