@@ -12,3 +12,4 @@ We hope that also others can profit from this knowledge base and our projects. W
 
 **Projects we've done so far:** (Or are currently working on)
 - Increase the amount of training data for networks trained on images by augmenting it with images from the internet: https://github.com/vkakerbeck/IncreaseYourTrainingData
+- Hack4Health hackathon 2018 submission: https://github.com/vkakerbeck/DieInfluenza (won first price)
